@@ -1,0 +1,83 @@
+1. African Gray Parrot
+2. Alexandrine Parakeet
+3. Amazon Parrots
+4. Blue And Yellow Macaws
+5. Blue-Cheeked Amazon
+6. Blue-Crowned Conure
+7. Blue-Fronted Amazon
+8. Blue-Headed Pionus
+9. Budgerigar (Parakeet)
+10. Caique Parrot
+11. Cockatoos
+12. Citron-Crested Cockatoo
+13. Crimson Rosella
+14. Derbyan Parakeet
+15. Double Yellow-Headed Amazon
+16. Dusky-Headed Parakeet
+17. Eastern Rosella
+18. Eclectus
+19. Finsch’s Parakeet
+20. Fischer's Lovebird
+21. Goffin's Cockatoo
+22. Golden Parakeet
+23. Golden-Mantled Rosella
+24. Greater Vasa Parrot
+25. Green-Cheeked Amazon
+26. Grey-Cheeked Parakeet
+27. Harlequin Macaw
+28. Hawk Headed Parrots
+29. Hispaniolan Amazon
+30. Hooded Parrot
+31. Hyacinth Macaw
+32. Imperial Amazon
+33. Indian Ringneck Parakeet
+34. Jandaya Parakeet
+35. Jardine's Parrot
+36. Kawall’s Amazon
+37. Lilac-Crowned Amazon
+38. Lilacine Amazon
+39. Maroon-Bellied Parakeet
+40. Meyer's Parrot
+41. Military Macaw
+42. Moluccan Cockatoo
+43. Mustached Parakeet
+44. Nanday Parakeets
+45. Northern Rosella
+46. Orange-Fronted Parakeets
+47. Pacific Parrotlet
+48. Poicephalus
+49. Patagonian Conure
+50. Peach-Faced Lovebird
+51. Quaker Parrot (Monk Parakeet)
+52. Red-Bellied Macaw
+53. Red-Capped Parrot
+54. Red-Fronted Conure
+55. Red-Fronted Macaw
+56. Red-Lored Amazon
+57. Red-Spectacled Amazon
+58. Red-Shouldered Macaw
+59. Red-Tailed Black Cockatoo
+60. Ring-Necked Parakeet
+61. Rock Pebbler Parrot
+62. Rose-Breasted Cockatoo
+63. Rose-Crowned Conure
+64. Rosy-Faced Lovebird
+65. Scarlet Macaw
+66. Senegal Parrot
+67. Slender-Billed Corella
+68. Solomon Island Eclectus
+69. Spectacled Parrotlet
+70. Spix’s Macaw
+71. Sulphur-Crested Cockatoo
+72. Sun Conure
+73. Superb Parrot
+74. Thick-Billed Parrot
+75. Tucuman Amazon
+76. Turquoise-Winged Parrotlet
+77. Vulturine Parrot
+78. White-Eyed Parakeets
+79. Yellow-Chevroned Parakeet
+80. Yellow-Collared Macaw
+81. Yellow-Naped Amazon Parrot
+82. Yellow-Shouldered Amazon
+83. Yellow-Throated Amazon

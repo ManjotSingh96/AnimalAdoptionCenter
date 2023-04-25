@@ -1,0 +1,46 @@
+1. Amami Rabbit (Pentalagus furnessi) - Japan
+2. Annamite Striped Rabbit (Nesolagus timminsi) - Vietnam and Laos
+3. Antelope Jackrabbit (Lepus alleni) - Southwestern North America
+4. Appalachian Cottontail (Sylvilagus obscurus) - Eastern North America
+5. Arctic Fox (Vulpes lagopus) - Arctic regions of North America, Europe, and Asia
+6. Arctic Hare (Lepus arcticus) - Arctic regions of North America and Greenland
+7. Bengal Fox (Vulpes bengalensis) - South Asia
+8. Black Rabbit (Oryctolagus cuniculus) - United Kingdom
+9. Black-tailed Jackrabbit (Lepus californicus) - Western North America
+10. Brush Rabbit (Sylvilagus bachmani) - Western North America
+11. Cape Fox (Vulpes chama) - Southern Africa
+12. Cape hare (Lepus capensis) - Africa and the Arabian Peninsula
+13. Chinese Hare (Lepus sinensis) - China
+14. Corsac Fox (Vulpes corsac) - Central Asia
+15. Corsican hare (Lepus corsicanus) - Corsica, Sardinia, and neighboring islands
+16. Desert Cottontail (Sylvilagus audubonii) - Southwestern North America
+17. Desert Hare (Lepus tibetanus) - Central Asia and parts of China
+18. Eastern Cottontail (Sylvilagus floridanus) - North America
+19. Ethiopian Hare (Lepus fagani) - Ethiopia
+20. Ethiopian Highland Hare (Lepus starcki) - Ethiopia
+21. Hainan hare (Lepus hainanus) - Hainan Island, China
+22. Indian Hare (Lepus nigricollis) - India and Nepal
+23. Levant Hare (Lepus europaeus syriacus) - Middle East and Eastern Mediterranean
+24. Manchurian hare (Lepus mandshuricus) - Northeastern Asia
+25. Marsh Rabbit (Sylvilagus palustris) - Southeastern North America
+26. Mexican Cottontail (Sylvilagus cunicularius) - Mexico and Central America
+27. Mountain Cottontail (Sylvilagus nuttallii) - Western North America
+28. New England Cottontail (Sylvilagus transitionalis) - Northeastern North America
+29. Northern Hare (Lepus timidus) - Northern Europe, Asia, and North America
+30. Pygmy Rabbit (Brachylagus idahoensis) - Western North America
+31. Red Rock Hare (Pronolagus rupestris) - South Africa
+32. Riverine Rabbit (Bunolagus monticularis) - South Africa
+33. San Nicolas Island Rabbit (Sylvilagus bachmani dickeyi) - San Nicolas Island, California
+34. Scrub Hare (Lepus saxatilis) - Africa and the Arabian Peninsula
+35. Snowshoe Hare (Lepus americanus) - Northern North America
+36. Swamp Rabbit (Sylvilagus aquaticus) - Southeastern North America
+37. Tehuantepec Jackrabbit (Lepus flavigularis) - Mexico
+38. Tolai hare (Lepus tolai) - Central Asia and parts of China
+39. Venezuelan Lowland Rabbit (Sylvilagus varynaensis) - Northern South America
+40. Volcano Rabbit (Romerolagus diazi) - Mexico
+41. White-sided Jackrabbit (Lepus callotis) - Western United States and Mexico
+42. White-tailed Jackrabbit (Lepus townsendii campanius) - Western United States and Canada
+43. White-tailed Jackrabbit (Lepus townsendii) - Western North America
+44. Woolly Hare (Lepus oiostolus) - Central Asia and parts of China
+45. Yunnan hare (Lepus comus) - Southern China and Southeast Asia
+

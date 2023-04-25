@@ -1,0 +1,251 @@
+1. Affenpinscher
+2. Afghan Hound
+3. Airedale Terrier
+4. Akita
+5. Alaskan Klee Kai
+6. Alaskan Malamute
+7. American Bulldog
+8. American English Coonhound
+9. American Eskimo Dog
+10. American Foxhound
+11. American Hairless Terrier
+12. American Leopard Hound
+13. American Staffordshire
+14. American Water Spaniel
+15. Australian Cattle Dog
+16. Australian Cattle Dog
+17. Australian Kelpie
+18. Australian Shepherd
+19. Australian Stumpy Tail Cattle Dog
+20. Australian Terrier
+21. Azawakh
+22. Barbado da Terceira
+23. Barbet
+24. Basenji
+25. Basset Fauve de Bretagne
+26. Basset Hound
+27. Bavarian Mountain ScentHound
+28. Beagle
+29. Bearded Collie
+30. Beauceron
+31. Bedlington Terrier
+32. Belgian Laekenois
+33. Belgian Malinois
+34. Belgian Sheepdogs
+35. Belgian Tervurens
+36. Bergamasco Sheepdog
+37. Berger Picard
+38. Bernese Mountain
+39. Bichon Frise
+40. Biewer Terrier
+41. Black and Tan Coonhound
+42. Black Russian Terrier
+43. Bloodhound
+44. Bluetick Coonhound
+45. Boston Terriers
+46. Bouvier des Flandres
+47. Boxers
+48. Bracco Italiano
+49. Braque du Bourbonnais
+50. Braque Francais Pyrenean
+51. Briard
+52. Broholmer
+53. Brussels Griffon
+54. Bulldogs
+55. Bullmastiffs
+56. Cane Corso
+57. Cardigan Welsh Corgi
+58. Catahoula Leopard Dog
+59. Cavalier King Charles Spaniel
+60. Chesapeake Bay Retriever
+61. Chihuahuas
+62. Chinese Shar-Pei
+63. Chow Chows
+64. Cirneco dell'Etna
+65. Croatian Sheepdog
+66. Czechoslovakian Vlcak
+67. Dalmatians
+68. Danish-Swedish Farmdog
+69. Doberman Pinscher
+70. Dogo Argentino
+71. Dogue de Bordeaux
+72. Drentsche Patrijshond
+73. Dutch Shepherd
+74. English Cocker Spaniel
+75. English Foxhound
+76. English Setter
+77. English Springer Spaniel
+78. English Toy Spaniel
+79. Entlebucher Mountain Dog
+80. Eurasier
+81. Field Spaniel
+82. Finnish Lapphund
+83. Finnish Spitz
+84. Flat-Coated Retriever
+85. French Bulldog
+86. French Spaniel
+87. German Longhaired Pointer
+88. German Pinscher
+89. German Shepherd
+90. German Shorthaired Pointer (GSP)
+91. German Spitz
+92. German Wirehaired Pointer
+93. Giant Schnauzer
+94. Glen of Imaal Terrier
+95. Golden Retrievers
+96. Gordon Setter
+97. Grand Basset Griffon Vendéen
+98. Great Dane
+99. Great Pyrenees
+100. Greater Swiss Mountain
+101. Greyhounds
+102. Hamiltonstovare
+103. Hanoverian Scenthound
+104. Harrier
+105. Havanese
+106. Hokkaido
+107. Hovawart
+108. Ibizan Hound
+109. Icelandic Sheepdog
+110. Irish Red and White Setter
+111. Irish Setter
+112. Irish Terrier
+113. Irish Water Spaniel
+114. Irish Wolfhound
+115. Italian Greyhounds
+116. Jagdterrier
+117. Japanese Akita
+118. Japanese Chin
+119. Japanese Spitz
+120. Jindo
+121. Kai Ken
+122. Karelian Bear Dog
+123. Keeshonds
+124. Kerry Blue Terrier
+125. Kishu Ken
+126. Komondor
+127. Kromfohrlander
+128. Kuvasz
+129. Labrador Retriever
+130. Lagotto Romagnolo
+131. Lakeland Terrier
+132. Lancashire Heeler
+133. Leonbergers
+134. Lhasa Apso
+135. Maltese
+136. Manchester Terrier
+137. Mastiffs
+138. Miniature American Shepherd
+139. Miniature Bull Terrier
+140. Miniature Pinschers
+141. Miniature Schnauzers
+142. Mountain Cur
+143. Mudi
+144. Neapolitan Mastiff
+145. Nederlandse Kooikerhondje
+146. Newfoundland
+147. Norfolk Terriers
+148. Norrbottenspets
+149. Norwegian Buhund
+150. Norwegian Elkhound
+151. Norwegian Lundehund
+152. Norwich Terrier
+153. Nova Scotia Duck Tolling Retriever
+154. Old English Sheepdog
+155. Otterhound
+156. Papillon
+157. Parson Russell Terrier
+158. Pekingese
+159. Pembroke Welsh Corgis
+160. Perro de Presa Canario
+161. Peruvian Inca Orchid
+162. Petit Basset Griffon Vendéen
+163. Pharaoh Hound
+164. Plott Hound
+165. Pointer
+166. Polish Lowland Sheepdogs
+167. Pomeranian
+168. Poodle
+169. Poodle (Miniature)
+170. Poodle (Toy)
+171. Porcelaine
+172. Portuguese Podengo
+173. Portuguese Podengo Pequeno
+174. Portuguese Pointer
+175. Portuguese Sheepdog
+176. Portuguese Water Dog
+177. Pudelpointer
+178. Pug
+179. Puli
+180. Pumi
+181. Pyrenean Mastiff
+182. Pyrenean Shepherd
+183. Rafeiro do Alentejo
+184. Rat Terrier
+185. Redbone Coonhound
+186. Rhodesian Ridgeback
+187. Romanian Carpathian Shepherd
+188. Romanian Mioritic Shepherd Dog
+189. Rottweiler
+190. Russell Terrier
+191. Russian Toy
+192. Russian Tsvetnaya Bolonka
+193. Saint Bernard
+194. Saluki
+195. Samoyed
+196. Schapendoes
+197. Schipperke
+198. Scottish Deerhound
+199. Scottish Terrier
+200. Segugio Italiano
+201. Shetland Sheepdog
+202. Shiba Inu
+203. Shih Tzu
+204. Shikoku
+205. Siberian Huskies
+206. Silky Terrier
+207. Skye Terrier
+208. Sloughi
+209. Slovakian Wirehaired Pointer
+210. Slovensky Cuvac
+211. Slovensky Kopov
+212. Small Munsterlander
+213. Smooth Fox Terrier
+214. Soft Coated Wheaten Terrier
+215. Spanish Mastiff
+216. Spanish Water Dog
+217. Spinone Italiano
+218. Stabyhoun
+219. Staffordshire Bull Terrier
+220. Standard Schnauzer
+221. Sussex Spaniel
+222. Swedish Lapphund
+223. Swedish Vallhund
+224. Taiwan Dog
+225. Thai Ridgeback
+226. Tibetan Mastiff
+227. Tibetan Spaniel
+228. Tibetan Terrier
+229. Tornjak
+230. Tosa
+231. Toy Fox Terrier
+232. Transylvanian Hound
+233. Treeing Tennessee Brindle
+234. Treeing Walker Coonhound
+235. Vizsla
+236. Volpino Italiano
+237. Welsh Springer Spaniel
+238. Welsh Terrier
+239. West Highland White Terrier
+240. Whippet
+241. Wire Fox Terrier
+242. Wirehaired Pointing Griffon
+243. Wirehaired Vizsla
+244. Working Kelpie
+245. Xoloitzcuintli
+246. Yakutian Laika
+247. Yorkshire Terrier
+
+
+
+

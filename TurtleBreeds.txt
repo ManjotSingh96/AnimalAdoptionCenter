@@ -1,0 +1,70 @@
+1. African Helmeted Turtle
+2. African Side-necked Turtle
+3. African Softshell Turtle
+4. Alabama Map Turtle
+5. Alligator Snapping Turtle
+6. Arakan Forest Turtle
+7. Barbour’s Map Turtle
+8. Big-headed Turtle
+9. Black Softshell Turtle
+10. Black-breasted Leaf Turtle
+11. Black-knobbed Map Turtle
+12. Blanding’s Turtle
+13. Bog Turtle
+14. Box Turtle
+15. Central American Wood Turtle
+16. Chicken Turtle
+17. Chinese Box Turtle
+18. Chinese Softshell Turtle
+19. Coahuilan Box Turtle
+20. Cumberland Slider
+21. Desert Box Turtle
+22. Diamondback Terrapin
+23. Eastern Box Turtle
+24. Eastern Painted Turtle
+25. Eastern River Cooter
+26. Eastern Snake-necked Turtle
+27. European Pond Turtle
+28. False Map Turtle
+29. Florida River Cooter
+30. Florida Softshell Turtle
+31. Flattened Musk Turtle
+32. Gulf Coast Box Turtle
+33. Indian Peacock Softshell Turtle
+34. Indian Tent Turtle
+35. Japanese Pond Turtle
+36. Loggerhead Musk Turtle
+37. Malaysian Box Turtle
+38. Matamata Turtle
+39. Midland Painted Turtle
+40. Mississippi Map Turtle
+41. Mississippi Mud Turtle
+42. Nicaraguan Slider
+43. Northern Map Turtle
+44. Ornate Box Turtle
+45. Ornate Wood Turtle
+46. Ouachita Map Turtle
+47. Painted Turtles
+48. Peninsula Cooter
+49. Philippine Forest Turtle
+50. Pig-nosed Turtle
+51. Pink-bellied Side-necked Turtle
+52. Razor-backed Musk Turtle
+53. Red-cheeked Mud Turtle
+54. Red-eared Slider
+55. Reeves Turtle
+56. Scorpion Mud Turtle
+57. Smooth Softshell Turtle
+58. Snake-necked Turtles
+59. Southern Painted Turtle
+60. Spiny Softshell Turtle
+61. Spotted Turtle
+62. Striped Mud Turtle
+63. Texas Map Turtle
+64. Three-toed Box Turtle
+65. Western Painted Turtle
+66. Western Pond Turtle
+67. White-lipped Mud Turtle
+68. Yellow Mud Turtle
+69. Yellow-bellied Slider
+70. Yellow-blotched Map Turtle

@@ -1,0 +1,65 @@
+1. Abyssinian
+2. American Bobtail
+3. American Curl
+4. American Shorthair
+5. American Wirehair
+6. Balinese
+7. Bengal
+8. Birman
+9. Bombay
+10. British Longhair
+11. British Shorthair
+12. Burmese
+13. Burmilla
+14. California Spangled
+15. Chartreux
+16. Chausie
+17. Chinchilla Persian
+18. Colorpoint Shorthair
+19. Cornish Rex
+20. Cymric
+21. Devon Rex
+22. Domestic Long Hair
+23. Domestic Shorthair
+24. Donskoy
+25. Egyptian Mau
+26. European Shorthair
+27. Exotic Shorthair
+28. German Rex
+29. Havana Brown
+30. Himalayan
+31. Japanese Bobtail
+32. Javanese
+33. Khao Manee
+34. Korat
+35. LaPerm
+36. Maine Coon
+37. Manx
+38. Munchkin
+39. Nebelung
+40. Norwegian Forest Cat
+41. Ocicat
+42. Oriental
+43. Persian
+44. Peterbald
+45. Pixie-bob
+46. Ragamuffin
+47. Ragdoll
+48. Russian Blue
+49. Savannah
+50. Scottish Fold
+51. Selkirk Rex
+52. Siamese
+53. Siberian
+54. Singapura
+55. Snowshoe
+56. Sokoke
+57. Somali
+58. Scottish Folds
+59. Thai
+60. Tiffany
+61. Tonkinese
+62. Toyger
+63. Turkish Angora
+64. Turkish Van
+65. York Chocolate
